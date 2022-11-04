@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.Login{
+  color: #282c34;
+  width: 300px;
+  display: inline-block;
+}
+.Login:hover {
+  background-color: rgb(157, 147, 147);
+  font-size: 150%;
+  color: aliceblue;
+}
